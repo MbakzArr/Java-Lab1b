@@ -1,6 +1,4 @@
-/**
- * @author Prince Lesapo and Mbadaliga Arehone Brenden.
- */
+
 public class Name {
 
     private final String firstName;
